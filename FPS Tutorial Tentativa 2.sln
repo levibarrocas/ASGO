@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPS Tutorial Tentativa 2", "FPS Tutorial Tentativa 2.csproj", "{114D7926-0EBF-F66A-3D4B-21DF4FAA1BB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPS Tutorial Tentativa 2.Editor", "FPS Tutorial Tentativa 2.Editor.csproj", "{F4C953E8-42D1-DB76-E279-2079D9D73FDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{114D7926-0EBF-F66A-3D4B-21DF4FAA1BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114D7926-0EBF-F66A-3D4B-21DF4FAA1BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114D7926-0EBF-F66A-3D4B-21DF4FAA1BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114D7926-0EBF-F66A-3D4B-21DF4FAA1BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4C953E8-42D1-DB76-E279-2079D9D73FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C953E8-42D1-DB76-E279-2079D9D73FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C953E8-42D1-DB76-E279-2079D9D73FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C953E8-42D1-DB76-E279-2079D9D73FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
